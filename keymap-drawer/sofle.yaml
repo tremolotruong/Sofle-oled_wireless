@@ -100,7 +100,7 @@ layers:
   - RIGHT
   - DEL
   - BSPC
-  - {t: ▽, type: trans}
+  - '&sys_reset'
   - UNDO
   - CUT
   - COPY
